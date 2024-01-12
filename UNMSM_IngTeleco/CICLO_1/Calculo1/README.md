@@ -2,7 +2,7 @@
 
 ## 📚Libros
  - [Calculo_Schaum_ayres.pdf](https://drive.google.com/file/d/1RVafyNJKeKJPel7XnJX_BCIkFPugpC0w/view)
- - HJ
+ - [Calculus cheatsheet](https://drive.google.com/file/d/1y6K2taOyC4aBN_RN87DnJOFUXzyi1fmz/view?usp=sharing)
  - K
 
 > **Note:** The **Publish now** button is disabled if your file has not been published yet.
