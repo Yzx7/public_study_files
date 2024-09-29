@@ -1,0 +1,1 @@
+Plantilla para crear monografías estilo cybertesis.unmsm.edu.pe, hecha en typst
